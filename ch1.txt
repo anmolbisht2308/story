@@ -2,3 +2,5 @@ hello this is anmol this side what you want to tell me about this
 :w
 :wq
 
+thursday
+
